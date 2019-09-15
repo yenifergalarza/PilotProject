@@ -1,0 +1,115 @@
+.container-image {
+    height: 40%;
+    width: 100%;
+}
+
+.image-background1 {
+    height: 100%;
+    width: 100%;
+}
+
+
+.text-about-services {
+    display: flex !important;
+    justify-content: center;
+    flex-flow: column;
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+.container-text {
+    margin-top: 60px;
+    width: auto;
+}
+
+.blockquote {
+    position: relative;
+    margin-left: 0;
+    margin-right: 24px;
+    padding-left: 24px;
+    border-left: 4px solid blueviolet;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.space-around {
+    padding-left: 4%;
+    padding-right: 4%;
+}
+span{
+    text-align: left
+}
+.text-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.bottom-image{
+    height: 50%;
+    width: 100%;
+}
+.container-image-botttom{
+    height: 100%;
+    width: 100%;
+}.container-panel{
+    padding-left: 5%;
+    padding-right: 5%;
+    position: absolute;
+}
+.card-panel {
+    position: relative;
+    top: -55%;
+    margin-top: -6%;
+    padding: 1% !important;
+        padding-right: 1%;
+        padding-left: 1%;
+    padding-right: 1%;
+    padding-left: 1%;
+    padding-left: 6% !important;
+    padding-right: 6% !important;
+    box-shadow: none !important;
+    display: flex;
+    flex-direction: column;
+}
+
+.row-image {
+    position: relative;
+    top: -32%;
+    display: flex;
+    justify-content: center;
+}
+nav{
+    height: 85px !important;
+}
+nav i{
+    font-size: 40px !important;
+}
+
+nav ul a {
+    color: #212121;
+    height: 85px !important;
+    text-decoration: white;
+
+}
+.image-banner {
+    height: 100%;
+    width: 100%;
+}
+
+nav ul a:hover{
+    color:blueviolet !important;
+    background-color: white;
+    transition: text-decoration  0.8s linear 0.2s;;
+text-decoration: underline;
+text-decoration-color: blueviolet;
+} 
+.btn{
+    margin: 6%;
+}
