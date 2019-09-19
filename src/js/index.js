@@ -1,2 +1,4 @@
-$(".dropdown-trigger").dropdown();
-        
+//$(".dropdown-trigger").dropdown();
+$(document).ready(function(){
+    $('.sidenav').sidenav();
+  });
